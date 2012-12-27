@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
 title: İlk gönderim
 ---
 
-merhaba bilgisayar mühendisligi
+Merhaba Dünya
