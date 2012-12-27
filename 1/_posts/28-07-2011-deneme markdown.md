@@ -1,6 +1,5 @@
----
+﻿---
 layout: post
-title: İlk gönderim
+title: markdown
 ---
-
-Merhaba Dünya
+merhaba uzay artık 
